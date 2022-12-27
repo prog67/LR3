@@ -21,5 +21,10 @@ namespace WindowsFormsApp1
         {
             label1.Text="Это выполнено в ветке Ivanov_Sergey";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
